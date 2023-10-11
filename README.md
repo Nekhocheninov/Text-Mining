@@ -41,9 +41,9 @@ Let's estimate the total number of words and the number of unique words after ea
 
 Let's plot a graph of word frequency and Zipf's graph.
 
-<img src="https://github.com/Nekhocheninov/TextMining/blob/main/Images/img_1.PNG" width="800">
+<img src="https://github.com/Nekhocheninov/TextMining/blob/main/img/img_1.PNG" width="800">
 
-<img src="https://github.com/Nekhocheninov/TextMining/blob/main/Images/img_2.PNG" width="800">
+<img src="https://github.com/Nekhocheninov/TextMining/blob/main/img/img_2.PNG" width="800">
 
 Let's evaluate the similarity of the graphs, for this we will use the standard deviation.
 
@@ -57,7 +57,7 @@ The obtained values ​​indicate that the frequency corresponds to Zipf's law.
 
 Set the range of significant words and determine the values ​​of the given range.
 
-<img src="https://github.com/Nekhocheninov/TextMining/blob/main/Images/img_3.PNG" width="800">
+<img src="https://github.com/Nekhocheninov/TextMining/blob/main/img/img_3.PNG" width="800">
 
 The indicated ranges describe the content of the texts and contain the following words:
 
